@@ -1,5 +1,7 @@
 ### Olá! Sou Bárbara Salla 👋</br></br>
 
+🌱 Desenvolvedora Full Stack Java em formação na Generation Brasil </br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</br></br>
 
 ![Salla GitHub stats](https://github-readme-stats.vercel.app/api?username=barbarasalla&show_icons=true&theme=dracula)
