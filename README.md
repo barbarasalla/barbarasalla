@@ -1,6 +1,7 @@
 ### Olá! Sou Bárbara Salla 👋</br></br>
 
-🌱 Desenvolvedora Full Stack Java em formação na Generation Brasil </br>
+🌱 Desenvolvedora Full Stack Java formada pela Generation Brasil </br>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbara-salla/) <a href="mailto:barbara.msalla@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </br></br>
 
