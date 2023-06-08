@@ -2,7 +2,7 @@
 
 🌱 Desenvolvedora Full Stack.</br>
 👩‍💻 Focada no Back-End com linguagem Java.</br>
-👨‍🎓 Formação em Sociologia/Ciências Sociais.</br></br>
+👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas.</br></br>
 
 
 
