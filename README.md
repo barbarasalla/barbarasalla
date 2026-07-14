@@ -2,7 +2,7 @@
 
 🌱 Desenvolvedora em constante evolução. </br>
 👩‍💻 Foco em desenvolvimento Back-End com ênfase na linguagem Java e boas práticas de código.</br>
-👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas.</br></br>
+👨‍🎓 Análise e Desenvolvimento de Sistemas.</br></br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbara-salla/) <a href="mailto:barbara.msalla@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </br></br>
 
@@ -12,7 +12,7 @@
 
 </div>
 
-## Tecnologias em aprendizagem:
+## Tecnologias:
 <div linguage></br>
 <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> </a> 
 <a href="spring.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="SpringBoot" width="40" height="40"/></a> 
