@@ -3,24 +3,21 @@
 🌱 Desenvolvedora em constante evolução. </br>
 👩‍💻 Foco em desenvolvimento Back-End com ênfase na linguagem Java e boas práticas de código.</br>
 👨‍🎓 Análise e Desenvolvimento de Sistemas.</br></br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbara-salla/) <a href="mailto:barbara.msalla@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </br></br>
 
-<div>
-
-<p> 
+<div align="left"> 
 <img 
       alt="GitHub Stats" 
-      height="200" 
+      height="200"
       src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=barbarasalla&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
-<img align="right"  src="https://github-readme-stats-sigma-lovat-93.vercel.app/api?username=barbarasalla&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs,issues" /> 
- </p>
-
-</div>
+&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api?username=barbarasalla&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs,issues"
+      /> 
+ </div>
 
 ## Tecnologias:
-<div linguage></br>
+<div align="left" linguage></br>
 <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> </a> 
 <a href="spring.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="SpringBoot" width="40" height="40"/></a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
