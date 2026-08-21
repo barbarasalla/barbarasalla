@@ -8,7 +8,14 @@
 
 <div>
 
-<p align="left"> <img src="https://github-readme-stats-sigma-lovat-93.vercel.app/api?username=barbarasalla&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs,issues" /> </p>
+<p> 
+<img 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=barbarasalla&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  />
+<img align="right"  src="https://github-readme-stats-sigma-lovat-93.vercel.app/api?username=barbarasalla&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs,issues" /> 
+ </p>
 
 </div>
 
